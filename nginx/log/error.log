@@ -1,0 +1,104 @@
+2024/11/14 15:53:50 [emerg] 1#1: "server" directive is not allowed here in /etc/nginx/nginx.conf:1
+2024/11/14 15:53:51 [emerg] 1#1: "server" directive is not allowed here in /etc/nginx/nginx.conf:1
+2024/11/14 15:53:51 [emerg] 1#1: "server" directive is not allowed here in /etc/nginx/nginx.conf:1
+2024/11/14 15:53:52 [emerg] 1#1: "server" directive is not allowed here in /etc/nginx/nginx.conf:1
+2024/11/14 15:53:53 [emerg] 1#1: "server" directive is not allowed here in /etc/nginx/nginx.conf:1
+2024/11/14 15:53:55 [emerg] 1#1: "server" directive is not allowed here in /etc/nginx/nginx.conf:1
+2024/11/14 15:53:59 [emerg] 1#1: "server" directive is not allowed here in /etc/nginx/nginx.conf:1
+2024/11/14 15:54:05 [emerg] 1#1: "server" directive is not allowed here in /etc/nginx/nginx.conf:1
+2024/11/14 15:54:18 [emerg] 1#1: "server" directive is not allowed here in /etc/nginx/nginx.conf:1
+2024/11/14 15:54:44 [emerg] 1#1: "server" directive is not allowed here in /etc/nginx/nginx.conf:1
+2024/11/14 15:55:36 [emerg] 1#1: "server" directive is not allowed here in /etc/nginx/nginx.conf:1
+2024/11/14 15:56:36 [emerg] 1#1: "server" directive is not allowed here in /etc/nginx/nginx.conf:1
+2024/11/14 15:57:36 [emerg] 1#1: "server" directive is not allowed here in /etc/nginx/nginx.conf:1
+2024/11/14 15:58:37 [emerg] 1#1: "server" directive is not allowed here in /etc/nginx/nginx.conf:1
+2024/11/14 15:59:37 [emerg] 1#1: "server" directive is not allowed here in /etc/nginx/nginx.conf:1
+2024/11/14 16:00:37 [emerg] 1#1: "server" directive is not allowed here in /etc/nginx/nginx.conf:1
+2024/11/14 16:01:38 [emerg] 1#1: "server" directive is not allowed here in /etc/nginx/nginx.conf:1
+2024/11/14 16:02:38 [emerg] 1#1: "server" directive is not allowed here in /etc/nginx/nginx.conf:1
+2024/11/14 16:03:38 [emerg] 1#1: "server" directive is not allowed here in /etc/nginx/nginx.conf:1
+2024/11/14 16:04:39 [emerg] 1#1: "server" directive is not allowed here in /etc/nginx/nginx.conf:1
+2024/11/14 16:05:39 [emerg] 1#1: "server" directive is not allowed here in /etc/nginx/nginx.conf:1
+2024/11/14 16:06:39 [emerg] 1#1: "server" directive is not allowed here in /etc/nginx/nginx.conf:1
+2024/11/14 16:07:40 [emerg] 1#1: "server" directive is not allowed here in /etc/nginx/nginx.conf:1
+2024/11/14 16:08:40 [emerg] 1#1: "server" directive is not allowed here in /etc/nginx/nginx.conf:1
+2024/11/14 16:13:31 [error] 23#23: *1 "/var/www/html/index.html" is not found (2: No such file or directory), client: 112.97.83.210, server: 106.75.222.196, request: "GET / HTTP/1.1", host: "106.75.222.196"
+2024/11/14 16:16:49 [error] 23#23: *2 open() "/var/www/html/boaform/admin/formLogin" failed (2: No such file or directory), client: 194.50.16.198, server: 106.75.222.196, request: "POST /boaform/admin/formLogin HTTP/1.1", host: "106.75.222.196:80", referrer: "http://106.75.222.196:80/admin/login.asp"
+2024/11/14 16:17:58 [error] 22#22: *1 "/var/www/html/index.html" is not found (2: No such file or directory), client: 112.97.83.210, server: 106.75.222.196, request: "GET / HTTP/1.1", host: "106.75.222.196"
+2024/11/14 16:18:03 [error] 22#22: *1 "/var/www/html/index.html" is not found (2: No such file or directory), client: 112.97.83.210, server: 106.75.222.196, request: "GET / HTTP/1.1", host: "106.75.222.196"
+2024/11/14 16:18:48 [error] 22#22: *1 "/var/www/html/index.html" is not found (2: No such file or directory), client: 112.97.83.210, server: 106.75.222.196, request: "GET / HTTP/1.1", host: "106.75.222.196"
+2024/11/14 16:18:49 [error] 22#22: *1 "/var/www/html/index.html" is not found (2: No such file or directory), client: 112.97.83.210, server: 106.75.222.196, request: "GET / HTTP/1.1", host: "106.75.222.196"
+2024/11/14 16:20:03 [error] 30#30: *1 "/var/www/html/index.html" is not found (2: No such file or directory), client: 112.97.83.210, server: 106.75.222.196, request: "GET / HTTP/1.1", host: "106.75.222.196"
+2024/11/14 16:20:43 [error] 22#22: *1 "/var/www/html/index.html" is not found (2: No such file or directory), client: 112.97.83.210, server: 106.75.222.196, request: "GET / HTTP/1.1", host: "106.75.222.196"
+2024/11/14 16:20:49 [error] 22#22: *1 "/var/www/html/index.html" is not found (2: No such file or directory), client: 112.97.83.210, server: 106.75.222.196, request: "GET / HTTP/1.1", host: "106.75.222.196"
+2024/11/14 16:39:28 [error] 29#29: *2 "/var/www/html/index.html" is not found (2: No such file or directory), client: 46.19.138.234, server: 106.75.222.196, request: "GET / HTTP/1.1", host: "106.75.222.196"
+2024/11/14 16:59:11 [error] 29#29: *3 "/var/www/html/index.html" is not found (2: No such file or directory), client: 202.150.93.114, server: 106.75.222.196, request: "GET / HTTP/1.1", host: "106.75.222.196:80"
+2024/11/14 17:01:14 [error] 29#29: *4 "/var/www/html/index.html" is not found (2: No such file or directory), client: 154.213.184.43, server: 106.75.222.196, request: "GET / HTTP/1.1", host: "106.75.222.196:80"
+2024/11/14 17:15:37 [error] 29#29: *5 "/var/www/html/index.html" is not found (2: No such file or directory), client: 80.82.77.202, server: 106.75.222.196, request: "GET / HTTP/1.0"
+2024/11/14 17:18:20 [error] 29#29: *6 "/var/www/html/index.html" is not found (2: No such file or directory), client: 149.50.106.25, server: 106.75.222.196, request: "GET / HTTP/1.1", host: "106.75.222.196:80"
+2024/11/14 17:29:14 [error] 29#29: *7 open() "/var/www/html/_profiler/phpinfo" failed (2: No such file or directory), client: 87.120.115.34, server: 106.75.222.196, request: "GET /_profiler/phpinfo HTTP/1.1", host: "106.75.222.196"
+2024/11/14 17:29:38 [error] 29#29: *8 "/var/www/html/index.html" is not found (2: No such file or directory), client: 191.102.25.14, server: 106.75.222.196, request: "GET / HTTP/1.1", host: "106.75.222.196"
+2024/11/14 17:33:42 [error] 29#29: *9 "/var/www/html/index.html" is not found (2: No such file or directory), client: 194.50.16.198, server: 106.75.222.196, request: "GET / HTTP/1.1", host: "106.75.222.196:80"
+2024/11/14 17:50:51 [error] 29#29: *10 "/var/www/html/index.html" is not found (2: No such file or directory), client: 154.213.191.23, server: 106.75.222.196, request: "GET / HTTP/1.1", host: "106.75.222.196"
+2024/11/14 18:17:53 [error] 29#29: *12 "/var/www/html/index.html" is not found (2: No such file or directory), client: 95.214.55.43, server: 106.75.222.196, request: "GET / HTTP/1.1", host: "106.75.222.196"
+2024/11/14 18:25:20 [error] 29#29: *13 "/var/www/html/index.html" is not found (2: No such file or directory), client: 5.8.11.202, server: 106.75.222.196, request: "GET / HTTP/1.0"
+2024/11/14 18:28:19 [error] 29#29: *14 open() "/var/www/html/cgi-bin/index.cgi" failed (2: No such file or directory), client: 194.50.16.198, server: 106.75.222.196, request: "GET /cgi-bin/index.cgi HTTP/1.1", host: "106.75.222.196:80"
+2024/11/14 18:33:49 [error] 29#29: *15 "/var/www/html/index.html" is not found (2: No such file or directory), client: 59.126.72.231, server: 106.75.222.196, request: "GET / HTTP/1.0", host: "127.0.0.1"
+2024/11/14 18:34:14 [error] 29#29: *16 "/var/www/html/index.html" is not found (2: No such file or directory), client: 59.125.60.224, server: 106.75.222.196, request: "GET / HTTP/1.0", host: "127.0.0.1"
+2024/11/14 18:43:23 [error] 29#29: *17 open() "/var/www/html/keybox.xml" failed (2: No such file or directory), client: 87.120.114.229, server: 106.75.222.196, request: "GET /keybox.xml HTTP/1.1", host: "106.75.222.196"
+2024/11/14 18:48:24 [error] 29#29: *18 open() "/var/www/html/cgi-bin/index.html" failed (2: No such file or directory), client: 194.50.16.198, server: 106.75.222.196, request: "GET /cgi-bin/index.html HTTP/1.1", host: "106.75.222.196:80"
+2024/11/14 18:53:49 [error] 29#29: *19 "/var/www/html/index.html" is not found (2: No such file or directory), client: 141.98.11.178, server: 106.75.222.196, request: "GET / HTTP/1.1", host: "106.75.222.196:80"
+2024/11/14 18:56:02 [error] 29#29: *20 open() "/var/www/html/hudson" failed (2: No such file or directory), client: 13.64.195.51, server: 106.75.222.196, request: "GET /hudson HTTP/1.1", host: "106.75.222.196"
+2024/11/14 19:06:41 [error] 29#29: *21 "/var/www/html/index.html" is not found (2: No such file or directory), client: 94.156.248.4, server: 106.75.222.196, request: "GET / HTTP/1.1", host: "106.75.222.196"
+2024/11/14 19:23:53 [error] 29#29: *22 "/var/www/html/index.html" is not found (2: No such file or directory), client: 185.191.126.248, server: 106.75.222.196, request: "GET / HTTP/1.1", host: "106.75.222.196:80"
+2024/11/14 20:22:49 [error] 29#29: *24 open() "/var/www/html/login.asp" failed (2: No such file or directory), client: 194.50.16.198, server: 106.75.222.196, request: "GET /login.asp HTTP/1.1", host: "106.75.222.196:80"
+2024/11/14 20:58:05 [error] 29#29: *27 "/var/www/html/index.html" is not found (2: No such file or directory), client: 49.213.235.216, server: 106.75.222.196, request: "GET / HTTP/1.0", host: "127.0.0.1"
+2024/11/14 21:15:47 [error] 29#29: *28 "/var/www/html/index.html" is not found (2: No such file or directory), client: 59.126.165.148, server: 106.75.222.196, request: "GET / HTTP/1.0", host: "127.0.0.1"
+2024/11/14 21:35:53 [error] 29#29: *29 open() "/var/www/html/apply.cgi" failed (2: No such file or directory), client: 194.50.16.198, server: 106.75.222.196, request: "POST /apply.cgi HTTP/1.1", host: "106.75.222.196:80", referrer: "http://106.75.222.196:80/apply.cgi"
+2024/11/14 21:35:55 [error] 29#29: *31 "/var/www/html/index.html" is not found (2: No such file or directory), client: 185.208.156.160, server: 106.75.222.196, request: "GET / HTTP/1.1", host: "106.75.222.196"
+2024/11/14 21:50:22 [error] 29#29: *32 "/var/www/html/index.html" is not found (2: No such file or directory), client: 179.43.191.98, server: 106.75.222.196, request: "GET / HTTP/1.1", host: "106.75.222.196"
+2024/11/14 22:03:34 [error] 29#29: *33 "/var/www/html/index.html" is not found (2: No such file or directory), client: 89.217.53.239, server: 106.75.222.196, request: "GET / HTTP/1.0", host: "127.0.0.1"
+2024/11/14 22:30:52 [error] 29#29: *34 open() "/var/www/html/boaform/admin/formLogin" failed (2: No such file or directory), client: 45.202.35.17, server: 106.75.222.196, request: "POST /boaform/admin/formLogin HTTP/1.1", host: "106.75.222.196:80", referrer: "http://106.75.222.196:80/admin/login.asp"
+2024/11/14 22:32:15 [error] 29#29: *35 "/var/www/html/index.html" is not found (2: No such file or directory), client: 95.214.55.79, server: 106.75.222.196, request: "GET / HTTP/1.1", host: "106.75.222.196"
+2024/11/14 22:35:53 [error] 29#29: *36 "/var/www/html/index.html" is not found (2: No such file or directory), client: 149.50.106.25, server: 106.75.222.196, request: "GET / HTTP/1.1", host: "106.75.222.196:80"
+2024/11/14 22:46:37 [error] 29#29: *37 open() "/var/www/html/manager/html" failed (2: No such file or directory), client: 4.151.37.255, server: 106.75.222.196, request: "GET /manager/html HTTP/1.1", host: "106.75.222.196"
+2024/11/14 23:01:07 [error] 29#29: *38 "/var/www/html/index.html" is not found (2: No such file or directory), client: 94.156.248.4, server: 106.75.222.196, request: "GET / HTTP/1.1", host: "106.75.222.196"
+2024/11/14 23:30:47 [error] 29#29: *39 "/var/www/html/index.html" is not found (2: No such file or directory), client: 87.236.176.38, server: 106.75.222.196, request: "GET / HTTP/1.1", host: "106.75.222.196"
+2024/11/14 23:36:05 [error] 29#29: *40 "/var/www/html/index.html" is not found (2: No such file or directory), client: 46.174.191.32, server: 106.75.222.196, request: "GET / HTTP/1.0"
+2024/11/14 23:41:37 [error] 29#29: *41 "/var/www/html/index.html" is not found (2: No such file or directory), client: 94.156.248.4, server: 106.75.222.196, request: "GET / HTTP/1.1", host: "106.75.222.196"
+2024/11/14 23:42:55 [error] 29#29: *42 "/var/www/html/index.html" is not found (2: No such file or directory), client: 147.185.132.157, server: 106.75.222.196, request: "GET / HTTP/1.1", host: "106.75.222.196:80"
+2024/11/14 23:57:21 [error] 29#29: *43 "/var/www/html/index.html" is not found (2: No such file or directory), client: 46.19.138.234, server: 106.75.222.196, request: "GET / HTTP/1.1", host: "106.75.222.196"
+2024/11/15 00:13:45 [error] 29#29: *44 "/var/www/html/index.html" is not found (2: No such file or directory), client: 94.156.248.4, server: 106.75.222.196, request: "GET / HTTP/1.1", host: "106.75.222.196"
+2024/11/15 00:24:29 [error] 29#29: *45 "/var/www/html/index.html" is not found (2: No such file or directory), client: 179.43.191.98, server: 106.75.222.196, request: "GET / HTTP/1.1", host: "106.75.222.196"
+2024/11/15 00:30:53 [error] 29#29: *46 open() "/var/www/html/login.asp" failed (2: No such file or directory), client: 194.50.16.198, server: 106.75.222.196, request: "GET /login.asp HTTP/1.1", host: "106.75.222.196:80"
+2024/11/15 00:41:59 [error] 29#29: *47 "/var/www/html/index.html" is not found (2: No such file or directory), client: 125.229.112.207, server: 106.75.222.196, request: "GET / HTTP/1.0", host: "127.0.0.1"
+2024/11/15 00:55:24 [error] 29#29: *48 open() "/var/www/html/.env" failed (2: No such file or directory), client: 87.120.115.34, server: 106.75.222.196, request: "GET /.env HTTP/1.1", host: "106.75.222.196"
+2024/11/15 01:16:56 [error] 29#29: *49 open() "/var/www/html/boaform/admin/formLogin" failed (2: No such file or directory), client: 194.50.16.198, server: 106.75.222.196, request: "POST /boaform/admin/formLogin HTTP/1.1", host: "106.75.222.196:80", referrer: "http://106.75.222.196:80/admin/login.asp"
+2024/11/15 01:36:22 [error] 29#29: *50 open() "/var/www/html/.git/config" failed (2: No such file or directory), client: 45.149.241.114, server: 106.75.222.196, request: "GET /.git/config HTTP/1.1", host: "106.75.222.196"
+2024/11/15 01:39:54 [error] 29#29: *51 "/var/www/html/index.html" is not found (2: No such file or directory), client: 154.213.184.43, server: 106.75.222.196, request: "GET / HTTP/1.1", host: "106.75.222.196:80"
+2024/11/15 02:08:20 [error] 29#29: *53 "/var/www/html/index.html" is not found (2: No such file or directory), client: 141.98.11.178, server: 106.75.222.196, request: "GET / HTTP/1.1", host: "106.75.222.196:80"
+2024/11/15 02:22:19 [error] 29#29: *54 "/var/www/html/index.html" is not found (2: No such file or directory), client: 194.50.16.198, server: 106.75.222.196, request: "GET / HTTP/1.1", host: "106.75.222.196:80"
+2024/11/15 02:30:10 [error] 29#29: *55 open() "/var/www/html/boaform/admin/formLogin" failed (2: No such file or directory), client: 45.202.35.17, server: 106.75.222.196, request: "POST /boaform/admin/formLogin HTTP/1.1", host: "106.75.222.196:80", referrer: "http://106.75.222.196:80/admin/login.asp"
+2024/11/15 02:58:43 [error] 29#29: *56 open() "/var/www/html/cgi-bin/luci/;stok=/locale" failed (2: No such file or directory), client: 141.98.11.79, server: 106.75.222.196, request: "GET /cgi-bin/luci/;stok=/locale HTTP/1.1", host: "106.75.222.196:80"
+2024/11/15 03:07:34 [error] 29#29: *59 open() "/var/www/html/cgi-bin/index.cgi" failed (2: No such file or directory), client: 194.50.16.198, server: 106.75.222.196, request: "GET /cgi-bin/index.cgi HTTP/1.1", host: "106.75.222.196:80"
+2024/11/15 03:16:19 [error] 29#29: *60 "/var/www/html/index.html" is not found (2: No such file or directory), client: 95.214.53.91, server: 106.75.222.196, request: "GET / HTTP/1.1", host: "106.75.222.196"
+2024/11/15 03:25:50 [error] 29#29: *61 "/var/www/html/index.html" is not found (2: No such file or directory), client: 205.210.31.109, server: 106.75.222.196, request: "GET / HTTP/1.0"
+2024/11/15 03:26:46 [error] 29#29: *62 "/var/www/html/index.html" is not found (2: No such file or directory), client: 122.117.63.48, server: 106.75.222.196, request: "GET / HTTP/1.0", host: "127.0.0.1"
+2024/11/15 03:30:16 [error] 29#29: *1 "/var/www/html/index.html" is not found (2: No such file or directory), client: 112.97.83.210, server: 106.75.222.196, request: "GET / HTTP/1.1", host: "106.75.222.196"
+2024/11/15 03:30:19 [error] 29#29: *1 "/var/www/html/index.html" is not found (2: No such file or directory), client: 112.97.83.210, server: 106.75.222.196, request: "GET / HTTP/1.1", host: "106.75.222.196"
+2024/11/15 03:30:29 [error] 29#29: *1 "/var/www/html/index.html" is not found (2: No such file or directory), client: 112.97.83.210, server: 106.75.222.196, request: "GET / HTTP/1.1", host: "106.75.222.196"
+2024/11/15 03:33:07 [error] 22#22: *1 "/var/www/html/index.html" is not found (2: No such file or directory), client: 112.97.83.210, server: 106.75.222.196, request: "GET / HTTP/1.1", host: "106.75.222.196"
+2024/11/15 03:33:12 [error] 22#22: *1 "/var/www/html/index.html" is not found (2: No such file or directory), client: 112.97.83.210, server: 106.75.222.196, request: "GET / HTTP/1.1", host: "106.75.222.196"
+2024/11/15 03:36:54 [error] 22#22: *1 "/var/www/html/index.html" is not found (2: No such file or directory), client: 112.97.83.210, server: 106.75.222.196, request: "GET / HTTP/1.1", host: "106.75.222.196"
+2024/11/15 03:36:57 [error] 22#22: *1 "/var/www/html/index.html" is not found (2: No such file or directory), client: 112.97.83.210, server: 106.75.222.196, request: "GET / HTTP/1.1", host: "106.75.222.196"
+2024/11/15 03:37:02 [error] 22#22: *1 "/var/www/html/index.html" is not found (2: No such file or directory), client: 112.97.83.210, server: 106.75.222.196, request: "GET / HTTP/1.1", host: "106.75.222.196"
+2024/11/15 03:37:04 [error] 22#22: *1 "/var/www/html/index.html" is not found (2: No such file or directory), client: 112.97.83.210, server: 106.75.222.196, request: "GET / HTTP/1.1", host: "106.75.222.196"
+2024/11/15 03:48:34 [error] 23#23: *1 "/var/www/myhtml/blog/index.html" is not found (2: No such file or directory), client: 112.97.83.210, server: 106.75.222.196, request: "GET / HTTP/1.1", host: "106.75.222.196"
+2024/11/15 03:48:40 [error] 23#23: *1 "/var/www/myhtml/blog/index.html" is not found (2: No such file or directory), client: 112.97.83.210, server: 106.75.222.196, request: "GET / HTTP/1.1", host: "106.75.222.196"
+2024/11/15 03:49:05 [error] 23#23: *2 "/var/www/myhtml/blog/index.html" is not found (2: No such file or directory), client: 1.34.6.132, server: 106.75.222.196, request: "GET / HTTP/1.0", host: "127.0.0.1"
+2024/11/15 03:49:31 [error] 22#22: *1 "/var/www/myhtml/blog/index.html" is not found (2: No such file or directory), client: 112.97.83.210, server: 106.75.222.196, request: "GET / HTTP/1.1", host: "106.75.222.196"
+2024/11/15 03:49:32 [error] 22#22: *1 "/var/www/myhtml/blog/index.html" is not found (2: No such file or directory), client: 112.97.83.210, server: 106.75.222.196, request: "GET / HTTP/1.1", host: "106.75.222.196"
+2024/11/15 03:49:42 [error] 22#22: *1 "/var/www/myhtml/blog/index.html" is not found (2: No such file or directory), client: 112.97.83.210, server: 106.75.222.196, request: "GET / HTTP/1.1", host: "106.75.222.196"
+2024/11/15 03:50:50 [error] 22#22: *1 "/var/www/myhtml/blogindex.html" is not found (2: No such file or directory), client: 112.97.83.210, server: 106.75.222.196, request: "GET / HTTP/1.1", host: "106.75.222.196"
+2024/11/15 03:51:40 [error] 23#23: *1 "/var/www/myhtml/blog/index.html" is not found (2: No such file or directory), client: 112.97.83.210, server: 106.75.222.196, request: "GET / HTTP/1.1", host: "106.75.222.196"
+2024/11/15 03:52:48 [error] 23#23: *2 open() "/var/www/myhtml/blog/cgi-bin/index.html" failed (2: No such file or directory), client: 194.50.16.198, server: 106.75.222.196, request: "GET /cgi-bin/index.html HTTP/1.1", host: "106.75.222.196:80"
